@@ -11,7 +11,7 @@ obj/
 /wwwroot/node_modules
 
 ### Nuke ###
-.nuke/
+.nuke/temp
 
 ### Linux ###
 *~
