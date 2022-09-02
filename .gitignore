@@ -10,6 +10,9 @@ obj/
 /node_modules
 /wwwroot/node_modules
 
+### Nuke ###
+.nuke/
+
 ### Linux ###
 *~
 

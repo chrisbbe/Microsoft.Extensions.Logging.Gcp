@@ -4,12 +4,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.Loggin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.Logging.Gcp.Tests", "Microsoft.Extensions.Logging.Gcp.Tests\Microsoft.Extensions.Logging.Gcp.Tests.csproj", "{DBFF3D4A-4633-460B-A83E-D4CB633ADECC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{E9CD6E8B-0A20-46D5-9820-F0F41C149426}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9CD6E8B-0A20-46D5-9820-F0F41C149426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CD6E8B-0A20-46D5-9820-F0F41C149426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1B0377F-C576-4EE1-9478-8136DC3DB667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A1B0377F-C576-4EE1-9478-8136DC3DB667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1B0377F-C576-4EE1-9478-8136DC3DB667}.Release|Any CPU.ActiveCfg = Release|Any CPU
